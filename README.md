@@ -20,9 +20,9 @@ Here are a few things about me:
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HaJuegos&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pelowisa-1&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaJuegos&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelowisa-1&layout=compact)
 
 ---
 
